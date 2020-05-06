@@ -1,0 +1,101 @@
+#!/bin/bash
+#
+# a script to convert every AIFF/MP3/WAV sound file in the current
+# directory to a corresponding CAF (IMA 4:1 compression) sound file.
+#
+# original author: alvin alexander, devdaily.com
+# modified by Raphael Salgado for BeyondtheTech, 2013
+#
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 
+# United States License: http://creativecommons.org/licenses/by-sa/3.0/us/
+#
+# NOTES:
+# if you cannot get this script to run in Terminal, make sure you add executable rights
+# to the file: chmod +x convert2caf.command
+#
+# Simply copy this script file into the folder that contains all the compatible sound files
+# you wish to convert, launch Terminal, navigate to the folder, then type:
+# ./convert2caf.command
+#
+# Original media files will be untouched.
+# Any CAF files of the same name will be overwritten.
+#
+
+cd ./OneDrive/Dev/workspace/corona/game/audio
+ 
+echo ""
+echo "Searching for all .AIFF files in the current directory..."
+ 
+IFS=$'\n'
+ 
+# list all CAF files in the current directory.
+# (the -1 character in this line is a "one", not an "el")
+for INFILE in $(ls -1 *.aiff)
+do
+ 
+  # get the base filename by stripping off the ".aiff" part
+  baseFilename=`basename "${INFILE}" .aiff`
+ 
+  # determine the preliminary output filename
+  outfile="${baseFilename}.caf"
+ 
+  # convert all spaces to hyphens
+  outfile=`echo $outfile | tr -s " " "-"`
+  echo "Converting \"$INFILE\" to \"$outfile\" ..."
+ 
+  # now convert the AIFF file to an CAF file
+  afconvert -f caff -d ima4 "$INFILE" "$outfile"
+ 
+done
+ 
+echo ""
+echo "Searching for all .MP3 files in the current directory..."
+ 
+# list all MP3 files in the current directory.
+# (the -1 character in this line is a "one", not an "el")
+for INFILE in $(ls -1 *.mp3)
+do
+ 
+  # get the base filename by stripping off the ".mp3" part
+  baseFilename=`basename "${INFILE}" .mp3`
+ 
+  # determine the preliminary output filename
+  outfile="${baseFilename}.caf"
+ 
+  # convert all spaces to hyphens
+  outfile=`echo $outfile | tr -s " " "-"`
+  echo "Converting \"$INFILE\" to \"$outfile\" ..."
+ 
+  # now convert the MP3 file to an CAF file
+  afconvert -f caff -d ima4 "$INFILE" "$outfile"
+ 
+done
+ 
+echo ""
+echo "Searching for all .WAV files in the current directory..."
+ 
+# list all WAV files in the current directory.
+# (the -1 character in this line is a "one", not an "el")
+for INFILE in $(ls -1 *.wav)
+do
+ 
+  # get the base filename by stripping off the ".wav" part
+  baseFilename=`basename "${INFILE}" .wav`
+ 
+  # determine the preliminary output filename
+  outfile="${baseFilename}.caf"
+ 
+  # convert all spaces to hyphens
+  outfile=`echo $outfile | tr -s " " "-"`
+  echo "Converting \"$INFILE\" to \"$outfile\" ..."
+ 
+  # now convert the WAV file to an CAF file
+  afconvert -f caff -d ima4 "$INFILE" "$outfile"
+ 
+done
+ 
+echo ""
+echo "Script completed.  Have a nice day!"
+echo ""
+echo ""
+exit 0

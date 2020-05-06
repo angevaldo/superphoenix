@@ -1,0 +1,1383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"con",
+				"contentCenterX"
+			],
+			[
+				"go",
+				"goNextScene"
+			],
+			[
+				"remove",
+				"removeSelf"
+			],
+			[
+				"fu",
+				"function	function"
+			],
+			[
+				"grp",
+				"grpView"
+			],
+			[
+				"content",
+				"contentCenterX"
+			],
+			[
+				"bu",
+				"button1"
+			],
+			[
+				"THU",
+				"THUMB_QTT_IN_ROW"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"inde",
+				"indexCancel"
+			],
+			[
+				"pre",
+				"preloaderAnalysing"
+			],
+			[
+				"mask",
+				"maskThumb"
+			],
+			[
+				"TH",
+				"THUMB_QTT_IN_COL"
+			],
+			[
+				"anch",
+				"anchorChildren"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"co",
+				"contentCenterX"
+			],
+			[
+				"CRYPTO_CASH_",
+				"CRYPTO_CASH_1000000"
+			],
+			[
+				"Con",
+				"Constants"
+			],
+			[
+				"an",
+				"anchorY"
+			],
+			[
+				"g",
+				"grpLanguage"
+			],
+			[
+				"gar",
+				"grpLanguages"
+			],
+			[
+				"new",
+				"newGroup"
+			],
+			[
+				"ac",
+				"actualContentHeight"
+			],
+			[
+				"a",
+				"alpha"
+			],
+			[
+				"A",
+				"AdsGame"
+			],
+			[
+				"Cont",
+				"Controller"
+			],
+			[
+				"sta",
+				"statusText"
+			],
+			[
+				"num",
+				"numPriceUnlock"
+			],
+			[
+				"TBL",
+				"TBL_PRODUCTS_PRICES"
+			],
+			[
+				"count",
+				"countAchievements"
+			],
+			[
+				"cu",
+				"currentDifficulty"
+			],
+			[
+				"curre",
+				"currentIndex"
+			],
+			[
+				"NUM_TIME_TO_ALERt",
+				"NUM_TIME_TO_ALERT_LIMIT"
+			],
+			[
+				"NUM",
+				"NUM_INDEX_TOUCH_AREA"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"TEN",
+				"TENDENCY_SAME_COUNT"
+			],
+			[
+				"grpR",
+				"grpRanking"
+			],
+			[
+				"V",
+				"Vector2D"
+			],
+			[
+				"sp",
+				"sptShot"
+			],
+			[
+				"trt",
+				"trtShp"
+			],
+			[
+				"ca",
+				"cancel"
+			],
+			[
+				"pos",
+				"posCamera"
+			],
+			[
+				"_en",
+				"_encryptCash"
+			],
+			[
+				"un",
+				"unpack"
+			],
+			[
+				"cur",
+				"currentID"
+			],
+			[
+				"bnP",
+				"bntPlayBlink"
+			],
+			[
+				"grpP",
+				"grpPercent"
+			],
+			[
+				"T",
+				"TOP"
+			],
+			[
+				"spt",
+				"sptStarIcing"
+			],
+			[
+				"L",
+				"LIMIT_SCORE"
+			],
+			[
+				"LI",
+				"LIMIT_CONTINUE"
+			],
+			[
+				"NU",
+				"NUM_NEBULA_ID"
+			],
+			[
+				"bntS",
+				"bntShareRelease"
+			],
+			[
+				"acCo",
+				"actualContentHeight"
+			],
+			[
+				"grpSc",
+				"grpScoreGame"
+			],
+			[
+				"grpT",
+				"grpTwitter"
+			],
+			[
+				"grpC",
+				"grpCash"
+			],
+			[
+				"grpCo",
+				"grpCoins"
+			],
+			[
+				"ser",
+				"serviceName"
+			],
+			[
+				"numC",
+				"numCashCollected"
+			],
+			[
+				"im",
+				"imgRecord"
+			],
+			[
+				"set",
+				"setFillColor"
+			],
+			[
+				"pa",
+				"pairs	pairs for loop"
+			],
+			[
+				"conte",
+				"contentCenterY"
+			],
+			[
+				"sys",
+				"sysAdjustedFPS"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"is",
+				"isModified"
+			],
+			[
+				"coun",
+				"countUnlocks"
+			],
+			[
+				"out",
+				"outElastic"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"_updateStatsR",
+				"_updateStatsRecords"
+			],
+			[
+				"stats",
+				"statsProfile"
+			],
+			[
+				"sy",
+				"sysPlatform"
+			],
+			[
+				"setF",
+				"setFrame"
+			],
+			[
+				"HE",
+				"height"
+			],
+			[
+				"up",
+				"updateStatsList"
+			],
+			[
+				"tbl",
+				"tblProfileStats"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"tblA",
+				"tblAchievementsNext"
+			],
+			[
+				"tblAchie",
+				"tblAchievements"
+			],
+			[
+				"al",
+				"alphaDefault"
+			],
+			[
+				"gr",
+				"grpBonus"
+			],
+			[
+				"_show",
+				"_showBonus"
+			],
+			[
+				"txt",
+				"txtDescription"
+			],
+			[
+				"rct",
+				"rctComboFrame"
+			],
+			[
+				"nucu",
+				"numCurrentStage"
+			],
+			[
+				"nu",
+				"numCountWavelets"
+			],
+			[
+				"n",
+				"numCurrentNebula"
+			],
+			[
+				"M",
+				"NUM_MAX_WAVELETS"
+			],
+			[
+				"numCo",
+				"numCountWavelets"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"nuCH",
+				"numChoosedNebula"
+			],
+			[
+				"_TBL",
+				"_TBL_NOT_INVERTABLE"
+			],
+			[
+				"y",
+				"yScale"
+			],
+			[
+				"remov",
+				"removeSelf"
+			],
+			[
+				"anchor",
+				"anchorY"
+			],
+			[
+				"rc",
+				"rctOverlay"
+			],
+			[
+				"top",
+				"topDistance"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"_un",
+				"_uncolorized"
+			],
+			[
+				"isP",
+				"isPassThrough"
+			],
+			[
+				"numI",
+				"numIdNebula"
+			],
+			[
+				"ci",
+				"_transitionCinematic"
+			],
+			[
+				"isp",
+				"isPassThrough"
+			],
+			[
+				"getC",
+				"getCurrentPos"
+			],
+			[
+				"B",
+				"BOTTOM"
+			],
+			[
+				"outE",
+				"outElastic"
+			],
+			[
+				"img",
+				"imgPicked"
+			],
+			[
+				"on",
+				"onComplete"
+			],
+			[
+				"anc",
+				"anchorY"
+			],
+			[
+				"Tou",
+				"touch"
+			],
+			[
+				"C",
+				"Constants"
+			],
+			[
+				"x",
+				"xScale"
+			],
+			[
+				"Contro",
+				"Controller:setStatus"
+			],
+			[
+				"tblP",
+				"tblParams"
+			],
+			[
+				"tblParams.is",
+				"tblParams.isPowerup"
+			],
+			[
+				"tblPar",
+				"tblParticles"
+			],
+			[
+				"timer.",
+				"timer.performWithDelay()	timer"
+			],
+			[
+				"display.content",
+				"display.contentCenterX"
+			],
+			[
+				"disp",
+				"display.contentCenterX"
+			],
+			[
+				"numTim",
+				"numTimeOnScreen"
+			],
+			[
+				"numR",
+				"numRotTo"
+			],
+			[
+				"Ju",
+				"Jukebox:dispatchEvent"
+			],
+			[
+				"audio.re",
+				"audio.reserveChannels()	audio"
+			],
+			[
+				"tran",
+				"transition.to"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.lua",
+			"settings":
+			{
+				"buffer_size": 1638,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classes/phoenix/controller/scenes/Buy.lua",
+			"settings":
+			{
+				"buffer_size": 20469,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/phoenix/persistence/Persistence.lua",
+			"settings":
+			{
+				"buffer_size": 36609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build.settings",
+			"settings":
+			{
+				"buffer_size": 3880,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Corona Editor/Corona SDK.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Github: Repository"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: PACK",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: PA",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:PACK",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: TAG",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: ABAP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sy",
+				"Set Syntax: SQL"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/junior/OneDrive/Dev/workspace/corona/game",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/persistence"
+	],
+	"file_history":
+	[
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/About.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/GamePlayResults.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/ShowAds.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Store.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/persistence/Persistence.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/build.settings",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/LoadingGameIn.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/config.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Buy.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/ShowAds - Cópia.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/main.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/LoadingScene.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/Scroll.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/AdsGame.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Ranking.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Util.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/RateIt.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/AI.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Jukebox.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Challenge.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Constants.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Bonus.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/cameras/ViewPort.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Controller.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Quit.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/superpop/resources/debug/android",
+		"/Applications/apache-tomcat-6.0.44/conf/scc.xml",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Challenge 2.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Star.lua",
+		"/Users/junior/Downloads/usuarioDepartamento",
+		"/Users/junior/Desktop/formulario.ok.jsp",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/data/waves_gameplay.json",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Message.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/GamePlay.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_ru.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_de.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_en.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_es.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_fr.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_ja.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_pt.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_zh.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Nebula.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/whatscleaner/main.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/GamePlayPause.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Achievement.lua",
+		"/Users/junior/Downloads/facebook.html",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Profile.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/audio/converter",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/GGData.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Options.lua",
+		"/Users/junior/Downloads/revmob-corona-sdk-5.5.1/main.lua",
+		"/Users/junior/Downloads/wocommerce Pt-pt.rar Folder/woocommerce-pt_PT.po",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/Cópia de Scroll.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/I18N.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Alert.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Particle.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Wgt.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/Countries.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Reset.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/Cópia de strings.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/Cópia de strings_pt.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_ess.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/strings_ar.txt",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/LoadingGameOut.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Help.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Continue.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Assist.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/AchievementJump.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/HowToPlay.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/SuperPhoenix.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Untouchable.lua",
+		"/Users/junior/Downloads/in_app_products_com.ajtechlabs.support.game (1) - in_app_products_com.ajtechlabs.support.game (1).csv",
+		"/Users/junior/Downloads/in_app_products_com.ajtechlabs.support.game (1) - in_app_products_com.ajtechlabs.support.game (1) (1).csv",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Test.lua",
+		"/Users/junior/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/junior/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Powerup.lua",
+		"/Users/junior/phoenix/profile.php",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/languages/original.txt",
+		"/Users/junior/OneDrive/Dev/workspace/karnekeijo/Cópia de proposta - aprovacao.docx",
+		"/Users/junior/OneDrive/Dev/workspace/karnekeijo/proposta - aprovacao.docx",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Untouchable.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/Vector2D.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Spaceship.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Stats.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Particle (original).lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/Trt.lua",
+		"/Users/junior/Downloads/teste.php",
+		"/untitled",
+		"/Users/junior/phoenix/teste.php",
+		"/Users/junior/phoenix/ .htaccess",
+		"/Users/junior/phoenix/includes/ .htaccess",
+		"/Users/junior/Downloads/game/classes/phoenix/controller/scenes/Buy.lua",
+		"/Users/junior/Downloads/game/classes/phoenix/controller/scenes/Alert.lua",
+		"/Users/junior/Downloads/game/classes/phoenix/controller/scenes/Profile.lua",
+		"/Users/junior/Downloads/game/classes/phoenix/controller/scenes/Help.lua",
+		"/Users/junior/Downloads/game/classes/phoenix/controller/scenes/GamePlay.lua",
+		"/Users/junior/Library/Application Support/Corona Simulator/game-AB1EADEDDAA1413EE58CF28540EFF15B/Documents/boxes/profile.box",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/persistence/Persistence (original).lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/GamePlay (original).lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/Performance.lua",
+		"/Users/junior/Downloads/__jquery.tablesorter/themes/green/style.css",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/Util.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Reinforcement.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/widgets/widget_scrollview.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/widgets/widget.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/widgets/widget_momentumScrolling.lua",
+		"/Users/junior/OneDrive/Dev/workspace/corona/game/lib/ScrollView.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/About.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/persistence/Persistence.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/HowToPlay.lua",
+		"/C/Users/apjunior/Downloads/Star.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Star.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/infoAchievements.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Powerup.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/infoStar-ntbitu102.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/languages/strings.txt",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Buy.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/business/Message.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/entities/Particle.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/main.lua",
+		"/C/Users/apjunior/OneDrive/Apps/Win/Sublime/Data/Packages/Corona Editor/Corona Editor.sublime-settings",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/config.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/build.settings",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/GamePlay.lua",
+		"/C/Users/apjunior/OneDrive/Dev/workspace/corona/game/classes/phoenix/controller/scenes/Challenge.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"1.13",
+			"",
+			"./",
+			"/",
+			"game",
+			"",
+			"d###Ivoire",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"production",
+			"Cipher",
+			"openSSL",
+			"SSL",
+			"production",
+			"ssl",
+			"PRODUCTION",
+			"SCROLL_IS_MOVED",
+			"takeFocus",
+			"SCROLL_IS_MOVED",
+			"PRODUCTION",
+			"Toast",
+			"ShowAds",
+			"load",
+			"globals_persistence:get",
+			"1655546094697638",
+			"superpop",
+			"overlay",
+			"quit",
+			"Quit",
+			"_drop",
+			"_start",
+			"rctBg",
+			"rctFrame",
+			"_cleanMemory",
+			"numScoreAdd",
+			"_transitionCinematic",
+			"destroy",
+			"challengewin",
+			"PRODUCTION",
+			"rctFrame",
+			"blink",
+			"jump",
+			":jump",
+			":blink",
+			"blink",
+			"hide",
+			"strText",
+			"_showTextTitle",
+			"blink",
+			":blink",
+			"blink",
+			"startHowToPlay",
+			"show",
+			"_showSceneOverlay",
+			"show",
+			"blink",
+			":blink",
+			"blink",
+			"hide",
+			"blink",
+			"hide",
+			"blink",
+			"showChallenge",
+			"blink",
+			"_start",
+			"isPassThrough",
+			"_challengeWin",
+			"ended",
+			"gameOver",
+			"_challengeLoose",
+			"Trt.",
+			"Trt.to",
+			"onTouch",
+			"_shot",
+			"isActiveShot",
+			"touchCha",
+			"self.isActive",
+			"_shot",
+			"touch",
+			"grpPer",
+			"grpPercent",
+			"bar",
+			"touchcha",
+			"_newBot",
+			"_shot",
+			"drop",
+			"_shot",
+			"_onTouchChallenge",
+			"_touch",
+			"local _touch",
+			"_onTouchChallenge",
+			"onTouch",
+			"onTou",
+			"destroy",
+			"showsc",
+			"show",
+			"_updateScoreText",
+			"bonusended",
+			"ended",
+			"nPlayedCount",
+			"PRODUCTION",
+			"nPlayedCount",
+			"scroll:turnOff(",
+			"scroll:turnOff(fal",
+			"ended",
+			"act",
+			"unlock",
+			"txtLevel",
+			"3745",
+			"3750",
+			"1356",
+			"1366",
+			"3751",
+			"3783",
+			"_internetError",
+			"plugin_luasec_ssl",
+			" bn",
+			"bn*{",
+			"bn",
+			"bn=",
+			"bn =",
+			"juke",
+			"Bg",
+			"title",
+			"overla",
+			"imgLoader",
+			"blink",
+			"loading",
+			"setFillColor",
+			"PRODUCTION",
+			"AdsGame.isActive",
+			"TBL_SOUNDS_STASH",
+			"iPhone",
+			"stop",
+			"activateSounds",
+			"Util",
+			"text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Controller:getData():getProfile",
+			"725941924216419",
+			"phoenix",
+			"STR_ADS_SCENE_NAME",
+			"THUMB_QTT_IN_ROW",
+			"currentIndex",
+			"nextIndex",
+			")",
+			"(",
+			"xxx ",
+			" xx ",
+			"：\"",
+			"\"",
+			"\" : \"",
+			"\",",
+			"\" : \"",
+			"？",
+			"！",
+			"\"",
+			"RESTE",
+			"\"",
+			"CRYPTO_CASH_1000000",
+			"data",
+			": \" +",
+			": \" x",
+			": \"",
+			"TBL_LANGUAGES_INDEX",
+			"xxx ",
+			"+xx ",
+			" xx ",
+			"\"",
+			"isPreloadStarted",
+			"k=1",
+			"1 and .4 or 1",
+			"1 and .3",
+			"NUM_BUTTONS_DIST_Y",
+			"params.numPriceUnlock",
+			"NUM_PRICE_UNLOCK",
+			"TRT_CANCEL",
+			"TBL_PRODUCTS_VALUES",
+			"TBL_PRODUCTS_DETAIL_LOADED",
+			"TBL_PRODUCTS_ID",
+			"_animCoins",
+			"_animCoin",
+			"_animCoins",
+			"loadProductsCallback",
+			"TBL_VALUES",
+			"TBL_PRODUCTS",
+			"setFillColor(1, 1, .2)",
+			"setFillColor(1, .9, .2)",
+			"setFillColor(.9, 1, .2)",
+			"setFillColor(1, 1, .4)",
+			"rctRankingOverlay",
+			"com.ajtechlabs.support.game",
+			"0.01",
+			"com.ajtechlabs.games.superphoenix",
+			"1.11",
+			"1.10",
+			"ARR_VALUES",
+			"ARR_PRODUCTS",
+			"1.09",
+			"Store.finishTransaction(transaction)",
+			"NUM_TAPS_TO_DESTROY_CURRENT",
+			"NUM_TAPS_TO_DESTROY_TOTAL",
+			"NUM_TAPS_TO_DESTROY_CURRENT",
+			"NUM_TAPS_CURRENT",
+			"NUM_TAPS_TO_DESTROY",
+			"NUM_TIME_INTERVAL_BOTS",
+			"NUM_DAMAGE_BOT",
+			"rctOverlay:setFillColor(0, .9)",
+			"rctOverlay:setFillColor(0, .85)",
+			"rctOverlay:setFillColor(0, .9)",
+			"NUM_NEBULA_ID",
+			"Scenario",
+			"countNumTriesToPick",
+			"NUM_ASSIST_FACTOR",
+			"NUM_COMBOS_BONUS",
+			"NUM_TIME_BONUS",
+			"NUM_SCORE_BONUS",
+			"NUM_CASH_COLLECTED",
+			"k=1, ",
+			"Estrela",
+			"Star",
+			"k=0",
+			"NUM_TIME_TO_ALERT_LIMIT",
+			"3300,3300",
+			"numQttObjects",
+			"numCurrentObject",
+			"CANCEL_NEGATION",
+			"numPriceBuy",
+			"CANCEL_ALERT",
+			"grpAlert.cnlAnime",
+			"CANCEL_ALERT",
+			"TENDENCY_OLD",
+			"isHittedStar",
+			"countTendencies",
+			"tblPositions",
+			"grpShot",
+			"posCamera",
+			"",
+			"posTarget",
+			"CRYPTO_CASH_KEY",
+			"CRYPTO_KEY_CASH",
+			"CRYPTO_NORMAL",
+			"https://ajtechlabs.websiteseguro.com/services/",
+			"CRYPTO_100000",
+			"CRYPTO_0",
+			"https://ajtechlabs.websiteseguro.com/services/",
+			"getDecryptedScore",
+			"getScoreLast()",
+			"getScore()",
+			"CRYPTO_KEY",
+			"setFillColor(0, .97)",
+			"rctOverlay:setFillColor(0, .97)",
+			"_generateStar",
+			"TRT_CANCEL_BOT",
+			"ID_CURRENT_BACKGROUND_MUSIC",
+			"onShareReleased",
+			"sptShield",
+			"Apple",
+			"150, 4)",
+			"180, 4)",
+			"MAGMA",
+			"getCash()",
+			"TBL_LIMIT_STORE",
+			"NUM_ACHIEVEMENTS_TOTAL",
+			"NUM_NEBULA_ID",
+			"NUM_DIST_TO_BOT"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "classes/phoenix/controller/scenes/Buy.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1042,
+								1049
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/CoronaSDK-SublimeText-master/CoronaSDKLua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "classes/phoenix/persistence/Persistence.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27638,
+								27638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/CoronaSDK-SublimeText-master/CoronaSDKLua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "build.settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3313,
+								3313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 65.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "game.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ve",
+				"lib/Vector2D.lua"
+			],
+			[
+				"resul",
+				"classes/phoenix/controller/scenes/GamePlayResults.lua"
+			],
+			[
+				"config",
+				"config.lua"
+			],
+			[
+				"mai",
+				"main.lua"
+			],
+			[
+				"stri",
+				"languages/strings.txt"
+			],
+			[
+				"con",
+				"config.lua"
+			],
+			[
+				"result",
+				"classes/phoenix/controller/scenes/GamePlayResults.lua"
+			],
+			[
+				"results",
+				"classes/phoenix/controller/scenes/GamePlayResults.lua"
+			],
+			[
+				"ach",
+				"classes/phoenix/controller/scenes/Achievement.lua"
+			],
+			[
+				"messa",
+				"classes/phoenix/business/Message.lua"
+			],
+			[
+				"persis",
+				"classes/phoenix/persistence/Persistence.lua"
+			],
+			[
+				"ai",
+				"classes/phoenix/business/AI.lua"
+			],
+			[
+				"contr",
+				"classes/phoenix/business/Controller.lua"
+			],
+			[
+				"ut",
+				"classes/phoenix/business/Util.lua"
+			],
+			[
+				"planet",
+				"classes/phoenix/entities/Planet.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/apjunior/SkyDrive/Dev/workspace/corona/project.sublime-project"
+			]
+		],
+		"width": 721.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

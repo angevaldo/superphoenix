@@ -1,0 +1,108 @@
+settings = {
+
+    excludeFiles = {
+        all = { "*.sublime*", "converter" },
+        iphone = { "Icon*dpi.png", "ic_*.png", "audio/*.mp3", "audio/*.wav" },
+        android = { "iTunes*", "ios*", "Icon.png", "Icon@2x.png", "Icon-Small*.png", "Icon-6*.png", "Icon-7*.png", "Icon-8*.png", "audio/*.caf" }
+    },
+
+    plugins = {
+        ['plugin.toast'] = {publisherId = 'com.spiralcodestudio'},
+
+        ["plugin.openssl"] = { publisherId = "com.coronalabs", },
+        ["plugin.google.iap.v3"] = { publisherId = "com.coronalabs", supportedPlatforms = { android=true } },
+        ["CoronaProvider.native.popup.social"] = { publisherId = "com.coronalabs" },
+
+        ["plugin.applovin"] = { publisherId = "com.coronalabs", supportedPlatforms = { iphone=true, android=true, osx=true, win32=true, appletvos=true } },
+        ["plugin.facebook.v4"] = { publisherId = "com.coronalabs" },
+    },
+
+    orientation = {
+		default = "landscapeLeft",
+		supported = {"landscapeLeft", "landscapeRight"}
+	},
+
+	iphone = {
+		plist = {
+            UIAppFonts = {
+                "Maassslicer.ttf"
+            },
+
+            CFBundleIdentifier = "com.ajtechlabs.support.game",
+
+			UIStatusBarHidden = true,
+			UIPrerenderedIcon = true, 
+            UIApplicationExitsOnSuspend = false,
+
+            CFBundleIconFiles = {
+                "Icon.png",
+                "Icon@2x.png",
+                "Icon-Small-40.png",
+                "Icon-Small-40@2x.png",
+                "Icon-60.png",
+                "Icon-60@2x.png",
+                "Icon-72.png",
+                "Icon-72@2x.png",
+                "Icon-76.png",
+                "Icon-76@2x.png",
+                "Icon-80.png",
+                "Icon-Small-40.png",
+                "Icon-Small-40@2x.png",
+                "Icon-Small-50.png",
+                "Icon-Small-50@2x.png",
+                "Icon-Small.png",
+                "Icon-Small@2x.png"
+            },
+
+            FacebookAppID = "725941924216419",  
+            CFBundleURLTypes = {
+                { CFBundleURLSchemes = { "fb725941924216419", } }
+            },
+
+            ["URL types"] = {
+                item = {
+                    ["URL Schemes"] = { ["Item 0"] = "fb725941924216419" },
+                },
+            },
+
+            NSAppTransportSecurity = {
+                NSAllowsArbitraryLoads = true,
+            },
+
+            LSApplicationQueriesSchemes = {
+                "fb",
+                "fbapi20130214",
+                "fbapi20130410",
+                "fbapi20140410",
+                "fbapi20140116",
+                "fbapi20150313",
+                "fbapi20150629",
+                "fbauth",
+                "fbauth2",
+                "fb-messenger-api20140430",
+            },
+
+		}
+	},
+
+    android = {
+            facebookAppId = "725941924216419", 
+            versionCode = "42",
+            largeHeap = true,
+            usesExpansionFile = false,
+            usesPermissions = {
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.ACCESS_WIFI_STATE",
+                "android.permission.INTERNET",
+                "com.android.vending.BILLING",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+
+
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "com.google.android.c2dm.permission.RECEIVE",
+                ".permission.C2D_MESSAGE",
+           },
+   },
+   
+}
