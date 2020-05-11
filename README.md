@@ -5,10 +5,10 @@ Action mobile game for iOS and Android build with Lua and Solar2D (Corona SDK). 
 
 
 # Usage
-Go to <a href="https://coronalabs.com/" target="_blank">SDK website</a> and install. Execute it and open the main.lua file localized in root game directory.
+Go to <a href="https://coronalabs.com/">SDK website</a> and install. Execute it and open the main.lua file localized in root game directory.
 ```
 game/main.lua
 ```
 
 # SDK Documentation
-Complete <a href="https://docs.coronalabs.com/guide/programming/index.html" target="_blank">SDK documentation and APIs references</a>.
+Complete <a href="https://docs.coronalabs.com/guide/programming/index.html">SDK documentation and APIs references</a>.
