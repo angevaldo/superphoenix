@@ -12,3 +12,6 @@ game/main.lua
 
 ## SDK Documentation
 Complete <a href="https://docs.coronalabs.com/guide/programming/index.html">SDK documentation and APIs references</a>.
+
+## License
+The content of this project itself is licensed under the Apache License 2.0 license.
