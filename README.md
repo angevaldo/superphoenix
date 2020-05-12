@@ -17,7 +17,7 @@ Preview gameplay:
 - Over 200 missions
 
 ## Usage
-[Download SDK](https://coronalabs.com/) and install. Execute it and open the 'game/main.lua' file localized in root game directory.
+[Download SDK](https://coronalabs.com/) and install. Execute it and open the 'game/main.lua' file localized in game directory.
 
 ## SDK Documentation
 Complete [SDK documentation](https://docs.coronalabs.com/) and APIs references</a>.
