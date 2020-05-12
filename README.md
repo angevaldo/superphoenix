@@ -1,5 +1,5 @@
 # Super Phoenix
-Action mobile game with more than 200 missions and achievements built with Lua and Solar2D (Corona SDK). Preview gameplay:
+Action mobile game with more than 200 missions and achievements. The game was built with Solar2D (Corona SDK) / Lua.
 
 [![IMAGE Video sample](https://img.youtube.com/vi/iAzxMuErg70/0.jpg)](https://www.youtube.com/watch?v=iAzxMuErg70)
 
