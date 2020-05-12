@@ -1,5 +1,6 @@
-# Super Phoenix
-Action mobile game with more than 200 missions and achievements. The game was built with [Solar2D (Corona SDK)](https://coronalabs.com/).
+
+# What is Super Phoenix?
+Super Phoenix is an action mobile game with more than 200 missions and achievements. The game was built with [Solar2D (Corona SDK)](https://coronalabs.com/).
 
 >Solar2D (Corona SDK) is a cross-platform framework ideal for rapidly creating apps and games for mobile devices and desktop systems. That means you can create your project once and publish it to multiple types of devices, including Apple iPhone and iPad, Android phones and tablets, Amazon Fire, Mac Desktop, Windows Desktop, and even connected TVs such as Apple TV, Fire TV, and Android TV.
 
