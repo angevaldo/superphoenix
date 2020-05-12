@@ -10,11 +10,9 @@ Preview gameplay:
 
 
 ## Features
-- Visually Stunning
-- Fun addictive
-- 5 different scenarios with amazing challenges
+- 5 different scenarios
 - Bonus stages
-- Improvements - Increase your powers
+- Power improvements
 - Over 200 missions
 
 ## Usage
